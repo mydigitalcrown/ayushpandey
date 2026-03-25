@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-brand">
             <div className="footer-logo">
-              <Logo size={50} />
+              <Logo size={160} />
             </div>
             <p className="footer-tagline">
               Three brothers, one vision — building the future together.

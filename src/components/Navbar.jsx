@@ -31,7 +31,7 @@ const Navbar = () => {
     >
       <div className="nav-container">
         <a href="#home" className="nav-logo">
-          <Logo size={55} />
+          <Logo size={140} />
         </a>
 
         <div className="nav-links">
