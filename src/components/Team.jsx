@@ -17,7 +17,7 @@ const teamMembers = [
     gradient: 'linear-gradient(135deg, #6c35de, #c468ff)',
     accentColor: '#6c35de',
     socials: { instagram: '#', linkedin: '#', github: '#', twitter: '#' },
-    image: null,
+    image: '/images/ayush.jpeg',
   },
   {
     name: 'Shivam Pandey',
@@ -31,7 +31,7 @@ const teamMembers = [
     gradient: 'linear-gradient(135deg, #ff6b6b, #ffd93d)',
     accentColor: '#ff6b6b',
     socials: { instagram: '#', linkedin: '#', github: '#', twitter: '#' },
-    image: null,
+    image: '/images/shivam.jpeg',
   },
   {
     name: 'Om Tiwari',
@@ -45,7 +45,7 @@ const teamMembers = [
     gradient: 'linear-gradient(135deg, #00d2ff, #6c35de)',
     accentColor: '#00d2ff',
     socials: { instagram: '#', linkedin: '#', github: '#', twitter: '#' },
-    image: null,
+    image: '/images/om.jpeg',
   },
 ]
 
