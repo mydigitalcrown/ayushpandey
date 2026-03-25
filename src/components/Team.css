@@ -128,7 +128,46 @@
   font-size: 15px;
   line-height: 1.7;
   color: var(--text-muted);
-  margin-bottom: 24px;
+  margin-bottom: 20px;
+}
+
+.card-details {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 22px;
+  padding: 16px;
+  background: rgba(10, 10, 15, 0.5);
+  border: 1px solid var(--dark-border);
+  border-radius: 14px;
+}
+
+.card-detail-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+}
+
+.card-detail-item svg {
+  min-width: 16px;
+}
+
+.detail-label {
+  display: block;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  line-height: 1.2;
+}
+
+.detail-value {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  line-height: 1.4;
 }
 
 .card-socials {

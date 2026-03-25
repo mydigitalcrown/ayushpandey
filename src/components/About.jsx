@@ -66,11 +66,13 @@ const About = () => {
             </h3>
             <p>
               We are <strong>Ayush Pandey</strong>, <strong>Shivam Pandey</strong>, and{' '}
-              <strong>Om Tiwari</strong> — three brothers who share not just a bond of family,
-              but a burning passion for building amazing things.
+              <strong>Om Tiwari</strong> — three brothers from the holy city of <strong>Varanasi</strong>,
+              who share not just a bond of family, but a burning passion for building amazing things.
             </p>
             <p>
-              Each of us brings unique strengths to the table. Together, we form an
+              Currently pursuing our education at different schools across Varanasi —
+              Silver Grove School, WH Smith Memorial School, and Vanita Public School —
+              each of us brings unique strengths to the table. Together, we form an
               unstoppable force that combines vision, strategy, and creativity into
               everything we do.
             </p>

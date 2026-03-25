@@ -72,7 +72,7 @@ const Hero = () => {
             <span className="hero-initial">A</span>
             <div>
               <h3>Ayush Pandey</h3>
-              <p>The Visionary</p>
+              <p>Silver Grove School, Varanasi</p>
             </div>
           </div>
           <div className="hero-name-divider" />
@@ -80,7 +80,7 @@ const Hero = () => {
             <span className="hero-initial">S</span>
             <div>
               <h3>Shivam Pandey</h3>
-              <p>The Strategist</p>
+              <p>WH Smith Memorial School, Varanasi</p>
             </div>
           </div>
           <div className="hero-name-divider" />
@@ -88,7 +88,7 @@ const Hero = () => {
             <span className="hero-initial">O</span>
             <div>
               <h3>Om Tiwari</h3>
-              <p>The Creator</p>
+              <p>Vanita Public School, Varanasi</p>
             </div>
           </div>
         </motion.div>
